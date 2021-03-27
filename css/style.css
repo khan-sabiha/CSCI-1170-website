@@ -1,0 +1,184 @@
+body{
+	width: 1200px;
+	font-family: sans-serif;
+	margin: auto;
+	}
+
+nav ul {
+	margin: 0px;
+	list-style-type: none;
+	padding-left: 10px;
+	
+}
+nav ul li  {
+	display: inline;
+	padding-right: 10px;
+	line-height: 35px; 
+}
+#secondaryNav {
+	background-color: #707372;
+}
+
+#secondaryNav > ul > li > a {
+	float: right;
+	padding-right: 10px;
+	padding-left: 10px;
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 12px;
+}
+#secondaryNav ul li a:hover{
+	color: #F2AC00;
+}
+
+#primaryNav{
+	background-color: #EFEFEF;
+	line-height: 50px;
+	position: sticky;
+	top: 0;
+	width: 1200px;
+}
+
+#primaryNav ul{
+	margin: 0;
+	padding: 0;
+}
+#primaryNav ul li a {
+	color: black;
+	font-weight: bold;
+	padding: 10px;
+	text-decoration: none;
+}
+#primaryNav ul li a:hover {
+	background-color: black;
+	color: #F2AC00;
+	padding-top: 15px;
+	padding-bottom: 17px;
+	margin-left: 0px;
+}
+header {
+	height: 95px;
+}
+header > h1 > a {
+	position: absolute;
+	text-decoration: none;
+	color: black;
+	font-size: 25px;
+	font-weight: bold;
+	width: 20%;
+	padding-left: 15px; 
+}
+header > h1 > a:hover{
+	color: #F2AC00;
+}
+
+header form {
+	float: right;
+	padding-top: 15px;
+	padding-right: 10px;
+}
+header form input {
+	border-radius: 8px;
+	height: 28px;
+	padding-left: 30px;
+}
+
+main {
+	background-color: white;
+	padding-top: 35px;
+	padding-left: 25px;
+	padding-right: 25px;
+	color: black;
+	font-size: 16px;
+	width: 980px;
+	margin: auto;
+	margin-top: 92px;
+}
+
+div h3{
+	color: #F2AC00;
+	text-transform: uppercase;
+	font-size: 17px;
+}
+#aboutCourse {
+	width: 68%;
+	color: black;
+	float: left;
+}
+#grading{
+	float:right;
+
+}
+#details {
+	clear: both;
+	padding-top: 5px;
+}
+
+table {
+	border-collapse: collapse;
+	font-family: sans-serif;
+	font-size: 15px;
+	line-height: 36px;
+}
+
+tr {
+	border-bottom: solid #82b7b7;
+}
+tr:nth-child(odd) {
+	background-color: #EFEFEF;
+}
+#row1 {
+	background-color: #006fbf;
+	color: white;
+}
+
+.percent {
+	text-align: center;
+}
+
+.content {
+	padding-left: 18px;
+	padding-right: 25px;
+}
+
+.content1 {
+	padding-left: 18px;
+	text-align: left;
+}
+.percent1 {
+	padding-right: 15px;
+}
+
+img {
+	margin: auto;
+	width: 1200px;
+	position: absolute;
+	z-index: -1;
+}
+
+footer {
+	background-color: black;
+	overflow: auto;
+	padding-bottom: 40px;
+	padding-top: 40px;
+	font-size: 15px;
+	margin-top: 20%;
+}
+
+#footerNav {
+	float: right;
+	padding-right: 20px;
+	margin-top: 15px;
+}
+#copyright{
+	color: white;
+	float: left;
+	padding-left: 10px;
+	margin-top: 15px;
+}
+footer a {
+	text-decoration: none;
+	color: white;
+	padding-right: 20px;
+}
