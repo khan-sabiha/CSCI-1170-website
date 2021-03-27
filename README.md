@@ -4,20 +4,6 @@
 
 Student Name: Sabiha Khan
 
-B00 Number: B00842047
-
-
-### Academic Integrity Pledge
-I Sabiha Khan pledge to insure that:
-[1] The work that I submit in this course is original work that is completed by me in full;
-[2] I will give credit to any online/offline content source or person from whom I get help;
-[3] I understand that any work that I submit in this course is work done for this course only;
-and,
-[4] I understand Dalhousie University's academic integrity policy applies to this course and I may incur penalties if I were to violate stated policies
- 
-Signed,
-Sabiha Khan
-
 ### Design Decisions and Assumptions
 IN THIS SPACE, INCLUDE THE DECISIONS AND ASSUMPTIONS YOU MADE WHEN DEFINING STYLES TO MAKE THE PAGE APPEAR AS PER THE REFERENCE IMAGE.
 * I will style the website step by step for example first the navigation bar then the header then the stick to the page navigation bar so on and so forth.
